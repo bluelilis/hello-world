@@ -1,2 +1,2 @@
 # hello-world
-Initial repository
+Investigating this source control public thingy...
